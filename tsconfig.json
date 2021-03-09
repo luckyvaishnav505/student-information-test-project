@@ -1,0 +1,14 @@
+﻿{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "lib": [ "es2015", "dom" ],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "noImplicitAny": false,
+    "target": "es5"
+  }
+}
